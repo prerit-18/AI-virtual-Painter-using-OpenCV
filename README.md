@@ -15,11 +15,11 @@ An intelligent, gesture-controlled painting application built using Python, Open
 
 ---
 
-✨ Smart Voice Assistant 🧠🎙️
+## ✨ Smart Voice Assistant 🧠🎙️
 
 Introducing an integrated AI Voice Assistant (nicknamed Jarvis) that responds to intuitive voice commands — for a truly hands-free drawing experience.
 
-🔓 Wake Word Activation
+### 🔓 Wake Word Activation
 
 Just say “Jarvis” followed by your command to control the app without touching your mouse or keyboard.
 ✨ Unique Features 🎙️ AI Voice Assistant (Jarvis) Wake word activation: "Jarvis"
