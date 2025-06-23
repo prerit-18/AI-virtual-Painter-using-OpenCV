@@ -40,7 +40,7 @@ Real-time speech recognition via Google and text-to-speech feedback with pyttsx3
 
 Runs in a dedicated background thread, allowing seamless multitasking
 
-🛠️ How It Works
+## 🛠️ How It Works
 
 	•	Real-time speech recognition powered by Google Speech API
 	•	Text-to-speech feedback using pyttsx3 (your assistant speaks back!)
