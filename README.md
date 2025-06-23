@@ -57,3 +57,6 @@ Runs in a dedicated background thread, allowing seamless multitasking
 | Drawing & UI | OpenCV |
 | Array Handling | NumPy |
 | Voice Assistant | pyttsx3 |
+
+---
+🤖 Why PaintAI is Different Unlike traditional paint applications, PaintAI enables contactless interaction, making it perfect for touchless environments, educational demos, or creative experimentation. Its multi-modal input system (voice + gestures) is not only intuitive but also inclusive for users who may prefer voice or motion over physical input devices.
