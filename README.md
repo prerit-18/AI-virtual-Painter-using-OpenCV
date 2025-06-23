@@ -22,8 +22,26 @@ Introducing an integrated AI Voice Assistant (nicknamed Jarvis) that responds to
 🔓 Wake Word Activation
 
 Just say “Jarvis” followed by your command to control the app without touching your mouse or keyboard.
+✨ Unique Features 🎙️ AI Voice Assistant (Jarvis) Wake word activation: "Jarvis"
+
+Understands commands like:
+
+Jarvis clear – Clears the canvas
+
+Jarvis red / blue / green / black – Changes drawing color
+
+Jarvis eraser, rectangle, circle, line, draw – Switches tools
+
+Jarvis help – Lists available voice commands
+
+Jarvis quit – Exits the app
+
+Real-time speech recognition via Google and text-to-speech feedback with pyttsx3
+
+Runs in a dedicated background thread, allowing seamless multitasking
 
 🛠️ How It Works
+
 	•	Real-time speech recognition powered by Google Speech API
 	•	Text-to-speech feedback using pyttsx3 (your assistant speaks back!)
 	•	Runs smoothly in a separate background thread — no freezing or lag
